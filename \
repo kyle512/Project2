@@ -1,0 +1,10 @@
+BEGIN {
+    FS = ","
+    total_multiple=0
+}
+$3 >= 2 {
+    total_multiple+=1 
+}
+END{
+    print ("Multiple Vehicles Proportion: ", total_multiple / (NR-1)) 
+}
