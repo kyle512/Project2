@@ -4,3 +4,5 @@ Project 2 for CIS 241 (F22)
   <p>- Bash timing scripts</p>
   <p>- Data editing with sed</p>
   <p>- Analyzing traffic accident data with gawk</p>
+  <p></p>
+  <p> (script files are written scripts for project) </p>
